@@ -54,7 +54,7 @@ global.botname = process.env.BOT_NAME || 'Hello-Bot' //ur bot name
 //________________________________________________________________________________________________________
 global.ownernumber = process.env.SUDO || '923334763943' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'botkingsxyz' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'Aqeel' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
